@@ -1,0 +1,2 @@
+function DComponent(params: any) {
+}

@@ -14,10 +14,8 @@
         "noImplicitAny": false,
         "resolveJsonModule": true,
         "plugins": [
-            {
-                "name": "typescript-deno-plugin"
-            }
+           
         ],
-        "target": "esnext",
+        "target": "es2019",
     }
 }
